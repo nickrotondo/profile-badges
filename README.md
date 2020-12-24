@@ -1,2 +1,3 @@
-# profile-badges
+# Profile Badges
+
 Github profile badges
